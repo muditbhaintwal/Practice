@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ffbf596a-c1d4-425a-83dd-c9248773477a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/binaryTree/Bst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/src/main/java/binaryTree/BinaryTree.java.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/src/main/java/binaryTree/BinaryTree.java" afterDir="false" />
+    </list>
+    <list id="690854bc-d319-473c-818b-699823320f12" name="dnc" comment="">
+      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/AlternatingCharacters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/AnnotationByMe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/FamilyBudget.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/FamilyMember.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/Fibonacci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/FizzBuzz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/LambdaMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/LongestSubstring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/MyMath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/Padding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/PerformOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/Sha256.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/StdIn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/StringReverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/SuperDigit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/TwoSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/target/classes/stack/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/target/classes/stack/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/target/classes/stack/StackImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/target/practise.dsa-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2WCLZrDbSHf0ERmAfHrNWVrwLnQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dsa",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.BinaryTree">
+    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binaryTree.BinaryTree" />
+      <module name="practise.dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binaryTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.Main" />
+      <module name="practise.dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BinaryTree" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffbf596a-c1d4-425a-83dd-c9248773477a" name="Changes" comment="" />
+      <changelist id="690854bc-d319-473c-818b-699823320f12" name="dnc" comment="" />
+      <created>1696231679187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696231679187</updated>
+    </task>
+    <task id="LOCAL-00001" summary="restructuring2">
+      <option name="closed" value="true" />
+      <created>1696232280720</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696232280720</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="restructuring2" />
+    <option name="LAST_COMMIT_MESSAGE" value="restructuring2" />
+  </component>
+</project>

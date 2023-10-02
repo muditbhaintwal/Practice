@@ -5,32 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffbf596a-c1d4-425a-83dd-c9248773477a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/practise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/binaryTree/BinaryTree.java.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/hackerrank/AlternatingCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/hackerrank/AnnotationByMe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/hackerrank/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/hackerrank/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/hackerrank/LambdaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/hackerrank/LongestSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/hackerrank/Padding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/hackerrank/Sha256.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/hackerrank/StdIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/hackerrank/StringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/hackerrank/SuperDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/hackerrank/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/stack/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/stack/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/stack/StackImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/binaryTree/Bst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/src/main/java/binaryTree/BinaryTree.java.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/src/main/java/binaryTree/BinaryTree.java" afterDir="false" />
     </list>
     <list id="690854bc-d319-473c-818b-699823320f12" name="dnc" comment="">
       <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/AlternatingCharacters.class" afterDir="false" />
@@ -70,6 +47,13 @@
       <option value="module" />
     </option>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -95,7 +79,20 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BinaryTree">
+    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binaryTree.BinaryTree" />
+      <module name="practise.dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binaryTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stack.Main" />
       <module name="practise.dsa" />
@@ -111,6 +108,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinaryTree" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -125,6 +123,19 @@
       <option name="presentableId" value="Default" />
       <updated>1696231679187</updated>
     </task>
+    <task id="LOCAL-00001" summary="restructuring2">
+      <option name="closed" value="true" />
+      <created>1696232280720</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696232280720</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="restructuring2" />
+    <option name="LAST_COMMIT_MESSAGE" value="restructuring2" />
   </component>
 </project>

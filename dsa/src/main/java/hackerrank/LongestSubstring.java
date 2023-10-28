@@ -1,7 +1,9 @@
 package hackerrank;
 
-import java.awt.datatransfer.StringSelection;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 /*
 Given a string s, find the length of the longest substring without repeating characters.
@@ -21,37 +23,26 @@ Explanation: The answer is "b", with the length of 1.
  */
 public class LongestSubstring {
     public static void main(String[] args) {
-        String str = "wabcabcbb";
-        findLongestSubstring(str);
+        String str = "aabbcamnopqrstuvwxyzbcbbxyzabcde";
+        System.out.println(findLongestSubstring(str));
     }
 
-    private static void findLongestSubstring(String str) {
-        int start = 0;
-        int end = 0;
-
-        Map<Integer, List<String>> mapOfSubstrings = new HashMap<>();
-
-        getAllSubstrings(str);
-
-
-        for (int i = 0; i < str.length(); i++) {
-
-            char c = str.charAt(i);
-
-        }
-
-        String longestSubStr = "";
-        Set set = new HashSet(str.length());
-        for (int i = 0; i < str.length(); i++) {
-            char c = str.charAt(i);
-            if (set.contains(c)) {
-                if (1 == 1) {
-
+    private static int findLongestSubstring(String s) {
+        int maxLength = 0;
+        Map<Character, Integer> visitedChars = new HashMap<>(s.length());
+        for (int right = 0, left = 0; right < s.length(); right++) {
+            char c = s.charAt(right);
+            if (visitedChars.containsKey(c)) {
+                int foundAt = visitedChars.get(c);
+                if (foundAt >= left) {
+                    left = foundAt + 1;
                 }
-                break;
             }
-            set.add(c);
+            visitedChars.put(c, right);
+            maxLength = Math.max(maxLength, right - left + 1);
         }
+        return maxLength;
+
     }
 
     private static List<String> getAllSubstrings(String str) {

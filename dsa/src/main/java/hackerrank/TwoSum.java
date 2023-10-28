@@ -14,18 +14,23 @@ public class TwoSum {
         getIndices(array, target);
     }
 
-    private static void getIndices(int[] array, int target) {
-        Map itemsMap = new HashMap(array.length);
-        for (int j = 0; j < array.length; j++) {
-            itemsMap.put(array[j], j);
-            int lookingFor = target - array[j];
-            if (itemsMap.keySet().contains(lookingFor)) {
-                Integer index = (Integer) itemsMap.get(lookingFor);
-                if (index != j) {
-                    System.out.println("Indices are " + j + " and " + index);
-                    //break;
-                }
+    private static int[] getIndices(int[] nums, int target) {
+        int[] result = new int[2];
+        Map itemsMap = new HashMap(nums.length);
+        for (int j = 0; j < nums.length; j++) {
+
+            int diff = target - nums[j];
+            if (itemsMap.containsKey(diff)) {
+                Integer index = (Integer) itemsMap.get(diff);
+                System.out.println("Indices are " + j + " and " + index);
+                result[0] = index;
+                result[1] = j;
+                break;
+            } else {
+                itemsMap.put(nums[j], j);
             }
         }
+
+        return result;
     }
 }

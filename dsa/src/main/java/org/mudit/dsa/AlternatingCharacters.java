@@ -1,4 +1,4 @@
-package hackerrank;
+package org.mudit.dsa;
 
 /**
  * You are given a string containing characters A and B only. Your task is to change it into a string such that there

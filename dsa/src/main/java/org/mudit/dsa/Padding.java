@@ -1,4 +1,4 @@
-package hackerrank;
+package org.mudit.dsa;
 
 import java.util.ArrayList;
 import java.util.List;

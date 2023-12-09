@@ -1,4 +1,4 @@
-package hackerrank;
+package org.mudit.dsa;
 
 /*
 We define super digit of an integer x  using the following rules:

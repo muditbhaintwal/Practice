@@ -1,4 +1,4 @@
-package hackerrank;
+package org.mudit.dsa;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -36,6 +36,11 @@ public class BinaryTree {
         System.out.println("Hello from Binary tree");
 
         BinaryTree binaryTree = new BinaryTree();
+
+        // 1- Build a tree Preorder
+        // 1,2,4,-1,-1,5,-1,-1,3,-1,6,-1,-1    (-1 are NULL represents leaf nodes)
+
+        int[] nodes = {1,2,4,-1,-1,5,-1,-1,3,-1,6,-1,-1 };
         Node addedNode = binaryTree.addNode(1, null, null);
         binaryTree.addNode(2, addedNode, null);
     }

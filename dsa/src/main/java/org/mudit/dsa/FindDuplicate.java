@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
 import java.util.TreeSet;
-import java.util.stream.Collectors;
 
 public class FindDuplicate {
     public static void main(String[] args) {
@@ -22,10 +21,8 @@ public class FindDuplicate {
         Set<Integer> resultSet = new TreeSet<>();
 
         for (int i = 0; i < arr.length; i++) {
-            if (aset.contains(arr[i])) {
+            if (!aset.add(arr[i])) {
                 resultSet.add(arr[i]);
-            } else {
-                aset.add(arr[i]);
             }
         }
 

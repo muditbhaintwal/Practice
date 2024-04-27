@@ -9,7 +9,7 @@ import java.util.Map;
  */
 public class TwoSum {
     public static void main(String[] args) {
-        int array[] = {1, 2, 5, 8, 3, 1, 7};
+        int array[] = {1, 3, 5, 9, 8, 6, 7};
         int target = 9;
         getIndices(array, target);
     }
@@ -19,7 +19,19 @@ public class TwoSum {
         Map itemsMap = new HashMap(nums.length);
         for (int j = 0; j < nums.length; j++) {
 
-            int diff = target - nums[j];
+
+            if (itemsMap.containsKey(nums[j])) {
+                System.out.println(itemsMap.get(nums[j]) + " --> " + j);
+                result[0] = (int) itemsMap.get(nums[j]);
+                result[1] = j;
+                break;
+            } else {
+                //System.out.println((target - nums[j]) + " " + j);
+                itemsMap.put((target - nums[j]), j);
+            }
+
+
+            /*int diff = target - nums[j];
             if (itemsMap.containsKey(diff)) {
                 Integer index = (Integer) itemsMap.get(diff);
                 System.out.println("Indices are " + j + " and " + index);
@@ -27,8 +39,9 @@ public class TwoSum {
                 result[1] = j;
                 break;
             } else {
+                System.out.println(nums[j] + " -> " + j);
                 itemsMap.put(nums[j], j);
-            }
+            }*/
         }
 
         return result;

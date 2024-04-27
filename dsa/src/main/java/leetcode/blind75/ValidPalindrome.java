@@ -23,21 +23,27 @@ public class ValidPalindrome {
 
      */
 
-    private static boolean twoPointer(String str) {
+    private static boolean twoPointer(String s) {
+        if (s.isEmpty()) {
+            return true;
+        }
         boolean result = true;
-        int left = 0;
-        int right = str.length() - 1;
 
-        while (left < right) {
-            while (left < right && !Character.isLetterOrDigit(str.charAt(left))) {
+        s = s.toLowerCase().replaceAll(" ","").trim();
+
+        int left = 0;
+        int right = s.length() - 1;
+
+        while (left <= right) {
+            while (left < right && !Character.isLetterOrDigit(s.charAt(left))) {
                 left++;
             }
-            while (left < right && !Character.isLetterOrDigit(str.charAt(right))) {
+            while (left < right && !Character.isLetterOrDigit(s.charAt(right))) {
                 right--;
             }
 
-            char c1 = str.toLowerCase().charAt(left);
-            char c2 = str.toLowerCase().charAt(right);
+            char c1 = s.charAt(left);
+            char c2 = s.charAt(right);
 
             if (c1 != c2) {
                 result = false;

@@ -1,0 +1,57 @@
+
+Question
+1- types of classloaders.
+2- delegation in classloader.
+3- PATH vs Classpath.
+4- Microservices inter service comm.
+5- Transient in java.
+6- Parent class child class. Parent class is serializable but I dont wan to serialize child class.
+7- What is GC in java?
+8- Alternative of System.gc()?
+9- Internal implementation of HashSet.
+10- ENUM in java.
+11- Countdown latch and cyclic barrier.
+12- Lock interface. Lock intface vs Synchronized.
+13- Race condition vs deadlock. How to avoid deadlock.
+14- Autobox in java.
+15- Executor framework. Submit vs execute method.
+
+Patterns
+16- Abstract factory vs factory?
+
+Microservice
+
+17- Flow of your microservice application.
+18- How you scale you app in docker.
+19- How your services communicate with each others? using kafka
+20- JWT auth
+21- Gate service? what if any service is down? fallback methods of circuit braker.
+22 - Config server.
+
+
+
+
+
+
+
+Q1: Find Second maximum in an array
+Q2 : Why we use Serialization id
+
+
+
+Difference between Strategy and Decorator design patterns
+
+Write syntax to fill hashmap with only Java 8
+
+Syntax to create FixedThreadPool of particular thread pool size
+
+Which design pattern is used in dispatcher servlet
+
+Conditional beans in spring
+
+
+
+
+
+strength, weakness, available for long hours of work,work under pressure Full stack banking application assessment
+Spring boot annotations , API principles, code Walk through of assessment

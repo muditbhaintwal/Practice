@@ -1,4 +1,4 @@
-package hackerrank;
+package org.mudit.dsa;
 
 /*
 The Fibonacci Sequence

@@ -1,4 +1,4 @@
-package hackerrank;
+package org.mudit.dsa;
 
 public class StringReverse {
     public static void main(String[] args) {

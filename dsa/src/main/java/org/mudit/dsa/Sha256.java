@@ -1,4 +1,4 @@
-package hackerrank;
+package org.mudit.dsa;
 
 import java.math.BigInteger;
 import java.nio.charset.StandardCharsets;

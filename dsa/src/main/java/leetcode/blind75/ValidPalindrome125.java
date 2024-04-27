@@ -5,7 +5,7 @@ https://leetcode.com/problems/valid-palindrome/description/
 
 find if given alphanumeric string is palindrome ignoring case.
  */
-public class ValidPalindrome {
+public class ValidPalindrome125 {
     public static void main(String[] args) {
         String str = "A man, a plan, a canal, Panama!";
 

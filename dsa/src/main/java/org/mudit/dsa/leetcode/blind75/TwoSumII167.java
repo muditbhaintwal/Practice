@@ -1,4 +1,4 @@
-package leetcode.blind75;
+package org.mudit.dsa.leetcode.blind75;
 
 /*
 167. Two Sum II - Input Array Is Sorted

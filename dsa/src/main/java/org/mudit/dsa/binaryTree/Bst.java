@@ -1,4 +1,4 @@
-package binaryTree;
+package org.mudit.dsa.binaryTree;
 
 /*
 BST is a type of Binary tree which has following properties

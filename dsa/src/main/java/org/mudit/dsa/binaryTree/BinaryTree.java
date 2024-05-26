@@ -1,4 +1,4 @@
-package binaryTree;
+package org.mudit.dsa.binaryTree;
 
 
 /**

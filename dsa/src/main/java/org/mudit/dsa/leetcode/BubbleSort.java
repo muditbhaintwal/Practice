@@ -6,6 +6,7 @@ public class BubbleSort {
 
     public static void main(String[] args) {
         int[] arr = {2, 4, 1, 5, 6, 8, 7};
+        // in real life you should do   Arrays.sort(nums); which is DualPivotQuicksort
         sort(arr);
 
     }

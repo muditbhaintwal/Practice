@@ -1,4 +1,4 @@
-package leetcode;
+package org.mudit.dsa.leetcode;
 
 import java.util.Arrays;
 

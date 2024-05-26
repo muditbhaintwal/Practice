@@ -1,4 +1,4 @@
-package leetcode;
+package org.mudit.dsa.leetcode;
 
 public class Stocks {
     public static void main(String[] args) {

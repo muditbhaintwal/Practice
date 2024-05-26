@@ -4,28 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffbf596a-c1d4-425a-83dd-c9248773477a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/binaryTree/Bst.java" afterDir="false" />
+    <list default="true" id="ffbf596a-c1d4-425a-83dd-c9248773477a" name="Changes" comment="productExceptSelf">
+      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/leetcode/blind75/ProductOfArrayExceptSelf238.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/src/main/java/binaryTree/BinaryTree.java.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/src/main/java/binaryTree/BinaryTree.java" afterDir="false" />
     </list>
     <list id="690854bc-d319-473c-818b-699823320f12" name="dnc" comment="">
-      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/AlternatingCharacters.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/AnnotationByMe.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/FamilyBudget.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/FamilyMember.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/Fibonacci.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/FizzBuzz.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/LambdaMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/LongestSubstring.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/MyMath.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/Padding.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/PerformOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/Sha256.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/StdIn.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/StringReverse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/SuperDigit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/target/classes/hackerrank/TwoSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/dsa/target/classes/stack/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/dsa/target/classes/stack/Stack.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/dsa/target/classes/stack/StackImpl.class" afterDir="false" />
@@ -35,7 +19,9 @@
       <change afterPath="$PROJECT_DIR$/dsa/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/dsa/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/dsa/target/practise.dsa-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
+    <list id="1936d05a-a15b-4ce8-9308-5fe31b1679b6" name="tobecommitted" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,59 +43,115 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;muditbhaintwal&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/muditbhaintwal/practise.git&quot;,
+    &quot;accountId&quot;: &quot;185f1775-dca0-4dc6-b278-94c8a0ad0aaa&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-21/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-21/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-21/lib/src.zip!/java.base/java/util/HashSet.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-21/lib/src.zip!/java.base/java/util/Set.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-21/lib/src.zip!/java.base/java/util/SortedSet.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-21/lib/src.zip!/java.base/java/util/stream/IntStream.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-21/lib/src.zip!/java.base/java/util/stream/Stream.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2WCLZrDbSHf0ERmAfHrNWVrwLnQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ProductOfArrayExceptSelf238.executor": "Run",
+    "Application.TwoSumII167.executor": "Run",
+    "Application.ValidPalindrome.executor": "Run",
+    "Application.leetcode.blind75.ValidPalindrome.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "dsa",
+    "ignore.virus.scanning.warn.message": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BinaryTree">
-    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binaryTree.BinaryTree" />
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="dsa" />
+    </force-push-targets>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\practise\dsa\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ProductOfArrayExceptSelf238">
+    <configuration name="ProductOfArrayExceptSelf238" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.blind75.ProductOfArrayExceptSelf238" />
       <module name="practise.dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="binaryTree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stack.Main" />
+    <configuration name="TwoSumII167" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.blind75.TwoSumII167" />
       <module name="practise.dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="blind75.ValidPalindrome" />
+      <module name="practise.dsa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidPalindrome125" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.blind75.ValidPalindrome125" />
+      <module name="practise.dsa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leetcode.FindDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.FindDuplicate" />
+      <module name="practise.dsa" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinaryTree" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ProductOfArrayExceptSelf238" />
+        <item itemvalue="Application.TwoSumII167" />
+        <item itemvalue="Application.ValidPalindrome125" />
+        <item itemvalue="Application.ValidPalindrome" />
+        <item itemvalue="Application.leetcode.FindDuplicate" />
       </list>
     </recent_temporary>
   </component>
@@ -118,6 +160,7 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="ffbf596a-c1d4-425a-83dd-c9248773477a" name="Changes" comment="" />
       <changelist id="690854bc-d319-473c-818b-699823320f12" name="dnc" comment="" />
+      <changelist id="1936d05a-a15b-4ce8-9308-5fe31b1679b6" name="tobecommitted" comment="" />
       <created>1696231679187</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -131,11 +174,91 @@
       <option name="project" value="LOCAL" />
       <updated>1696232280720</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="restructuring2">
+      <option name="closed" value="true" />
+      <created>1696233348205</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696233348205</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixed">
+      <option name="closed" value="true" />
+      <created>1698510710509</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698510710510</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixed">
+      <option name="closed" value="true" />
+      <created>1698510744056</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698510744056</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixed">
+      <option name="closed" value="true" />
+      <created>1702129680679</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702129680679</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fixed">
+      <option name="closed" value="true" />
+      <created>1714210343442</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714210343443</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fixed">
+      <option name="closed" value="true" />
+      <created>1714212881072</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714212881073</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="restructuring2" />
-    <option name="LAST_COMMIT_MESSAGE" value="restructuring2" />
+    <MESSAGE value="fixed" />
+    <MESSAGE value="productExceptSelf" />
+    <option name="LAST_COMMIT_MESSAGE" value="productExceptSelf" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dsa/src/main/java/org/mudit/dsa/ReportCard.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dsa/src/main/java/leetcode/blind75/ValidPalindrome125.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dsa/src/main/java/leetcode/blind75/TwoSumII167.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dsa/src/main/java/leetcode/blind75/ProductOfArrayExceptSelf238.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

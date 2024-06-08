@@ -1,4 +1,4 @@
-package stack;
+package org.mudit.dsa.dsa.stack;
 
 public class StackImpl<V> implements Stack<V> {
     private int capacity = 1;

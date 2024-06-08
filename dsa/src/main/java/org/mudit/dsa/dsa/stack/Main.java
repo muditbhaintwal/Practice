@@ -1,4 +1,4 @@
-package stack;
+package org.mudit.dsa.dsa.stack;
 
 public class Main {
     public static void main(String[] args) {
